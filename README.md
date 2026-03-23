@@ -41,21 +41,9 @@ This project requires the `requests` library for making HTTP requests.
    python -m pip show requests
 ```
 
-### Alternative: Using requirements.txt
-
-You can also create a `requirements.txt` file with:
-```
-requests==2.31.0
-```
-
-Then install using:
-```bash
-pip install -r requirements.txt
-```
-
 ## How to Run
 ```bash
-python task2.py
+python index.py
 ```
 
 ## Output Format
