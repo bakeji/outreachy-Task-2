@@ -7,9 +7,9 @@ This python script read URLs from a csv file and checks their HTTP status code
 Create a python script to get and print the status code of the response of a list of URLs fro a .csv file
 
 ## Task Details
--**program**: Outreachy Internship
--**project**: Addressing the lusophone technological wishlist proposals
--**Organization**: Wikimedia
+- **program**: Outreachy Internship
+- **project**: Addressing the lusophone technological wishlist proposals
+- **Organization**: Wikimedia
 
 ## Requirements
 
